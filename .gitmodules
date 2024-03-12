@@ -1,0 +1,3 @@
+[submodule "ext/go-github-selfupdate"]
+	path = ext/go-github-selfupdate
+	url = git@github.com:rhysd/go-github-selfupdate.git
